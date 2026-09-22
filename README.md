@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/uttammahto2025/Leet-code/tree/master/0007-reverse-integer) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
+## Two Pointers
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
+## String
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
