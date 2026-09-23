@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/uttammahto2025/Leet-code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/uttammahto2025/Leet-code/tree/master/0007-reverse-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/uttammahto2025/Leet-code/tree/master/3871-count-commas-in-range-ii) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 ## Two Pointers
