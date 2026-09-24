@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uttammahto2025/Leet-code/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/uttammahto2025/Leet-code/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/uttammahto2025/Leet-code/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/uttammahto2025/Leet-code/tree/master/3871-count-commas-in-range-ii) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/uttammahto2025/Leet-code/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## String
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/uttammahto2025/Leet-code/tree/master/0231-power-of-two) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
