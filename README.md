@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/uttammahto2025/Leet-code/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/uttammahto2025/Leet-code/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
