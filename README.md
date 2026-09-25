@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/uttammahto2025/Leet-code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/uttammahto2025/Leet-code/tree/master/0015-3sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/uttammahto2025/Leet-code/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/uttammahto2025/Leet-code/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/uttammahto2025/Leet-code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
