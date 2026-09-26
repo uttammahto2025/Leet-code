@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/uttammahto2025/Leet-code/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/uttammahto2025/Leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/uttammahto2025/Leet-code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/uttammahto2025/Leet-code/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/uttammahto2025/Leet-code/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/uttammahto2025/Leet-code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -77,9 +79,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/uttammahto2025/Leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/uttammahto2025/Leet-code/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/uttammahto2025/Leet-code/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttammahto2025/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/uttammahto2025/Leet-code/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/uttammahto2025/Leet-code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
