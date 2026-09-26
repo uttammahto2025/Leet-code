@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/uttammahto2025/Leet-code/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttammahto2025/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/uttammahto2025/Leet-code/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/uttammahto2025/Leet-code/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
