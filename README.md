@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/uttammahto2025/Leet-code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttammahto2025/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/uttammahto2025/Leet-code/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/uttammahto2025/Leet-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/uttammahto2025/Leet-code/tree/master/0704-binary-search) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/uttammahto2025/Leet-code/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/uttammahto2025/Leet-code/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/uttammahto2025/Leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/uttammahto2025/Leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uttammahto2025/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
