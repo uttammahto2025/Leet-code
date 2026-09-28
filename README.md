@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/uttammahto2025/Leet-code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/uttammahto2025/Leet-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/uttammahto2025/Leet-code/tree/master/0704-binary-search) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/uttammahto2025/Leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/uttammahto2025/Leet-code/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/uttammahto2025/Leet-code/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/uttammahto2025/Leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
