@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/uttammahto2025/Leet-code/tree/master/0704-binary-search) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/uttammahto2025/Leet-code/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
