@@ -7,5 +7,4 @@ class Solution:
             if K[x]== 0:
                 break
             K[x] -=1
-
         return K[0]+K[1]
