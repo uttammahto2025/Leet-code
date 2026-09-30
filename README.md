@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uttammahto2025/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/uttammahto2025/Leet-code/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
