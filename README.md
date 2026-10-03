@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/uttammahto2025/Leet-code/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/uttammahto2025/Leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/uttammahto2025/Leet-code/tree/master/0704-binary-search) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/uttammahto2025/Leet-code/tree/master/0584-find-customer-referee) |
+## Enumeration
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
