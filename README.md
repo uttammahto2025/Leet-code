@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/uttammahto2025/Leet-code/tree/master/0704-binary-search) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/uttammahto2025/Leet-code/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/uttammahto2025/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
+| [1122-relative-sort-array](https://github.com/uttammahto2025/Leet-code/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/uttammahto2025/Leet-code/tree/master/1122-relative-sort-array) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -133,10 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/uttammahto2025/Leet-code/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/uttammahto2025/Leet-code/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/uttammahto2025/Leet-code/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/uttammahto2025/Leet-code/tree/master/1122-relative-sort-array) |
 ## Greedy
 |  |
 | ------- |
@@ -183,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/uttammahto2025/Leet-code/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
