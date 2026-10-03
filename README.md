@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/uttammahto2025/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/uttammahto2025/Leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/uttammahto2025/Leet-code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/uttammahto2025/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/uttammahto2025/Leet-code/tree/master/1122-relative-sort-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/uttammahto2025/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/uttammahto2025/Leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uttammahto2025/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/uttammahto2025/Leet-code/tree/master/0389-find-the-difference) |
 | [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/uttammahto2025/Leet-code/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/uttammahto2025/Leet-code/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/uttammahto2025/Leet-code/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/uttammahto2025/Leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/uttammahto2025/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/uttammahto2025/Leet-code/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/uttammahto2025/Leet-code/tree/master/1122-relative-sort-array) |
