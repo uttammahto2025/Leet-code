@@ -5,4 +5,3 @@ class Solution(object):
             temp.insert (index[i],nums[i])
         return temp 
         
-        
