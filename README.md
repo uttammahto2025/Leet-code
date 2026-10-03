@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/uttammahto2025/Leet-code/tree/master/0231-power-of-two) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2469-convert-the-temperature](https://github.com/uttammahto2025/Leet-code/tree/master/2469-convert-the-temperature) |
 | [3871-count-commas-in-range-ii](https://github.com/uttammahto2025/Leet-code/tree/master/3871-count-commas-in-range-ii) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 ## Two Pointers
