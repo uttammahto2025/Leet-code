@@ -92,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/uttammahto2025/Leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uttammahto2025/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/uttammahto2025/Leet-code/tree/master/0389-find-the-difference) |
+| [0856-score-of-parentheses](https://github.com/uttammahto2025/Leet-code/tree/master/0856-score-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uttammahto2025/Leet-code/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/uttammahto2025/Leet-code/tree/master/0856-score-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
@@ -205,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uttammahto2025/Leet-code/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/uttammahto2025/Leet-code/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
