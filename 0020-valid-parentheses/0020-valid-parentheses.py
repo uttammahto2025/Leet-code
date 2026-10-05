@@ -1,6 +1,6 @@
 class Solution:
     def isValid(self, s):
-        stack = []
+        stack=[]
         for x in s:
             if x == '(' or x == '{' or x == '[':
                 stack.append(x)
