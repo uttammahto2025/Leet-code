@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/uttammahto2025/Leet-code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/uttammahto2025/Leet-code/tree/master/1929-concatenation-of-array) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/uttammahto2025/Leet-code/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/uttammahto2025/Leet-code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/uttammahto2025/Leet-code/tree/master/1929-concatenation-of-array) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/uttammahto2025/Leet-code/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Matrix
 |  |
