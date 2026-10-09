@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uttammahto2025/Leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/uttammahto2025/Leet-code/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/uttammahto2025/Leet-code/tree/master/2469-convert-the-temperature) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/uttammahto2025/Leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/uttammahto2025/Leet-code/tree/master/3871-count-commas-in-range-ii) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 ## Two Pointers
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/uttammahto2025/Leet-code/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/uttammahto2025/Leet-code/tree/master/0856-score-of-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/uttammahto2025/Leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
