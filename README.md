@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/uttammahto2025/Leet-code/tree/master/1929-concatenation-of-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uttammahto2025/Leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
+| [4027-elevator-requests-iii](https://github.com/uttammahto2025/Leet-code/tree/master/4027-elevator-requests-iii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/uttammahto2025/Leet-code/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/uttammahto2025/Leet-code/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/uttammahto2025/Leet-code/tree/master/1486-xor-operation-in-an-array) |
+| [4027-elevator-requests-iii](https://github.com/uttammahto2025/Leet-code/tree/master/4027-elevator-requests-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -135,11 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/uttammahto2025/Leet-code/tree/master/1122-relative-sort-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uttammahto2025/Leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [4027-elevator-requests-iii](https://github.com/uttammahto2025/Leet-code/tree/master/4027-elevator-requests-iii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttammahto2025/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [4027-elevator-requests-iii](https://github.com/uttammahto2025/Leet-code/tree/master/4027-elevator-requests-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/uttammahto2025/Leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bitmask
+|  |
+| ------- |
+| [4027-elevator-requests-iii](https://github.com/uttammahto2025/Leet-code/tree/master/4027-elevator-requests-iii) |
 <!---LeetCode Topics End-->
