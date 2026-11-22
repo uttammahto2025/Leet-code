@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/uttammahto2025/Leet-code/tree/master/1929-concatenation-of-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uttammahto2025/Leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3833-count-dominant-indices](https://github.com/uttammahto2025/Leet-code/tree/master/3833-count-dominant-indices) |
 | [3996-even-number-of-knight-moves](https://github.com/uttammahto2025/Leet-code/tree/master/3996-even-number-of-knight-moves) |
 | [4027-elevator-requests-iii](https://github.com/uttammahto2025/Leet-code/tree/master/4027-elevator-requests-iii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/uttammahto2025/Leet-code/tree/master/4052-cyclically-shift-rows-and-columns) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3833-count-dominant-indices](https://github.com/uttammahto2025/Leet-code/tree/master/3833-count-dominant-indices) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/uttammahto2025/Leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Counting Sort
 |  |
