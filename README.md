@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/uttammahto2025/Leet-code/tree/master/0389-find-the-difference) |
 | [0856-score-of-parentheses](https://github.com/uttammahto2025/Leet-code/tree/master/0856-score-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/uttammahto2025/Leet-code/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/uttammahto2025/Leet-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
 | ------- |
