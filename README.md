@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/uttammahto2025/Leet-code/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/uttammahto2025/Leet-code/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/uttammahto2025/Leet-code/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/uttammahto2025/Leet-code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/uttammahto2025/Leet-code/tree/master/0231-power-of-two) |
 | [0976-largest-perimeter-triangle](https://github.com/uttammahto2025/Leet-code/tree/master/0976-largest-perimeter-triangle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/uttammahto2025/Leet-code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/uttammahto2025/Leet-code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/uttammahto2025/Leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/uttammahto2025/Leet-code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/uttammahto2025/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/uttammahto2025/Leet-code/tree/master/0344-reverse-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/uttammahto2025/Leet-code/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/uttammahto2025/Leet-code/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/uttammahto2025/Leet-code/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/uttammahto2025/Leet-code/tree/master/0645-set-mismatch) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/uttammahto2025/Leet-code/tree/master/0067-add-binary) |
 | [1389-create-target-array-in-the-given-order](https://github.com/uttammahto2025/Leet-code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/uttammahto2025/Leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/uttammahto2025/Leet-code/tree/master/1929-concatenation-of-array) |
